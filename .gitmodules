@@ -6,3 +6,7 @@
 	path = ktx
 	url = ../../cpp-port/ktx
 	branch = main
+[submodule "nanovg"]
+	path = nanovg
+	url = ../../cpp-port/port-nanovg
+	branch = main
